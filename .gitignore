@@ -78,7 +78,6 @@ poetry.lock
 .vscode/
 
 # Output and data
-output_data/
 *.mp3
 *.wav
 *.flac
