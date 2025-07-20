@@ -849,9 +849,8 @@ MIT License - see LICENSE file for details
 3. Add tests for new functionality
 4. Submit pull request
 
-## 📞 Support
 
-For issues and questions:
-- Create GitHub issue
-- Check troubleshooting guide
-- Review example notebooks in `/examples/`
+# Contributers
+
+1. Aryan10022006
+2. Sayam2122
